@@ -1,5 +1,5 @@
 # alpine-ssh
-Minimal Docker image with:
+Minimal ~12 MB Docker image with:
 
  - alpine latest (auto build on update via docker hub) 
  - openssh client tools
